@@ -11,8 +11,8 @@ menu:
 
 projects:
 - {name: 'Macarons',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
+- {name: 'Recettes',   url: 'proj-2'}
+- {name: 'Couture', url: 'proj-3'}
 
 #-------------------------------
 # Contact Section
