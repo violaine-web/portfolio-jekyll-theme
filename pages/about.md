@@ -4,7 +4,7 @@ title: À propos
 permalink: /about
 ---
 
-# Macarons etc
+# À propos
 
 Ecrire un petit texte ici
 
