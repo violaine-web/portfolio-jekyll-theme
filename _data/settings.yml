@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'About',    url: 'about'}
+- {name: 'Projets', url: 'projet'}
+- {name: 'À propos',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
