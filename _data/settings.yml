@@ -12,7 +12,7 @@ menu:
 projects:
 - {name: 'Macarons',   url: 'proj-1'}
 - {name: 'Recettes',   url: 'proj-2'}
-- {name: 'Couture', url: 'proj-3'}
+- {name: 'Création', url: 'proj-3'}
 
 #-------------------------------
 # Contact Section
